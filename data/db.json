@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "sgdfg gfghgff fghgfgf fhgfbgf gfgf"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "sgdfg gfghgff fghgfgf fhgfbgf gfgf"
+    },
+    {
+      "id": 5,
+      "title": "My 5th Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "sgdfg gfghgff fghgfgf fhgfbgf gfgf"
+    },
+    {
+      "id": 6,
+      "title": "7th post",
+      "datetime": "March 02, 2026 8:14:53 AM",
+      "body": "dsff d"
+    }
+  ]
+}
