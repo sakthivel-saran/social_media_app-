@@ -6,8 +6,8 @@ import Missing from "./Missing";
 import Nav from "./Nav";
 import NewPost from "./NewPost";
 import PostPage from "./PostPage";
-import Post from "./Post";
-import { Link, Routes, Route } from "react-router-dom";
+
+import {  Routes, Route } from "react-router-dom";
 import { useState, useEffect } from "react";
 import {format} from "date-fns";
 import { useNavigate } from "react-router-dom";
